@@ -1,0 +1,42 @@
+[
+    {
+        "1":"Capital of India",
+        "2": "7+7=?",
+        "3": "Which is the largest Continent?",
+        "4": "Which Sports does Virat Kohli play?"
+    },
+    {
+        "1": {
+            "a": "Goa",
+            "b": "New Delhi",
+            "c": "Chennai",
+            "d": "Mumbai"
+        },
+        "2": {
+            "a": "14",
+            "b": "18",
+            "c": "21",
+            "d": "19"
+        },
+        "3": {
+            "a": "Africa",
+            "b": "Europe",
+            "c": "Asia",
+            "d": "N.America"
+        },
+        "4": {
+            "a": "Hockey",
+            "b": "Baseball",
+            "c": "Cricket",
+            "d": "Football"
+        }
+        
+    },
+    {
+        "1": "New Delhi",
+        "2": "14",
+        "3": "Asia",
+        "4": "Cricket"
+        
+    }
+]
